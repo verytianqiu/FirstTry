@@ -1,3 +1,2 @@
 Hello, World.
 This is the first text file with changes. 
-修改 1 。
